@@ -1,4 +1,4 @@
-package com.interviewbit.assignment.Controller;
+package com.interviewbit.assignment.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
